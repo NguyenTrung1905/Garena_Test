@@ -1,10 +1,12 @@
 {
-  "name": "",
-  "nameLocKey": "",
+  "name": "Doomsday_Shelter",
+  "nameLocKey": "GAME_NAME",
   "description": "",
   "descriptionLocKey": "",
-  "subTitleId": 22,
-  "showTags": [],
+  "subTitleId": 28,
+  "showTags": [
+    4
+  ],
   "typeTags": [
     22
   ],
@@ -16,6 +18,7 @@
   "customShotSize": 0,
   "enable_static_combine": false,
   "enable_dynamic_combine": true,
-  "enable_loadArea": false
+  "enable_loadArea": false,
+  "enable_customNavmesh": false
 }
-//"{FE:{"v":"0.0.0","c":{"FF":4701},"s":100}
+//"{FE:{"v":"1.13.3737256","c":{"FF":4901},"s":100}

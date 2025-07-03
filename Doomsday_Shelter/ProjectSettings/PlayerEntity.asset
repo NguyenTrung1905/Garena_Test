@@ -3,24 +3,18 @@
     "type": "ff.PlayerEntity",
     "resourceId": "PlayerSetting"
   },
-  "_entityId": "P2azVJER",
+  "_entityId": "377vWvMD",
   "children": [
     {
       "_tag": {
         "type": "ff.CameraSetting",
         "resourceId": "CameraSetting"
       },
-      "_entityId": "jL1sYGqF",
+      "_entityId": "cpZtVQOB",
       "children": [],
       "prefabVariant": null,
-      "activeValue": {
-        "selfValue": true,
-        "valueTag": "activeValue"
-      },
-      "unlockedValue": {
-        "selfValue": true,
-        "valueTag": "unlockedValue"
-      },
+      "activeValue": null,
+      "unlockedValue": null,
       "editorLockValue": false,
       "editorVisibleValue": true,
       "CameraType": "Classic",
@@ -42,70 +36,13 @@
     }
   ],
   "prefabVariant": null,
-  "activeValue": {
-    "selfValue": true,
-    "valueTag": "activeValue"
-  },
-  "unlockedValue": {
-    "selfValue": true,
-    "valueTag": "unlockedValue"
-  },
+  "activeValue": null,
+  "unlockedValue": null,
   "editorLockValue": false,
   "editorVisibleValue": true,
-  "ecaProps": {
-    "Player": {},
-    "FightingEntity": {},
-    "AimableEntity": {},
-    "Entity": {},
-    "ScoreableEntity": {},
-    "RankableEntity": {},
-    "Visibility": {},
-    "BuffableEntity": {},
-    "FormulableEntity": {}
-  },
+  "ecaProps": {},
   "ecaScript": null,
-  "ecaScripts": [
-    {
-      "fileId": "hejqmsywjr-m877mmi3-oo4pr8zinkb",
-      "filePath": "Assets\\ECA\\Player\\PlayerEntity.eca",
-      "_tag": {
-        "type": "GFileRefer"
-      },
-      "fileType": "eca"
-    },
-    {
-      "fileId": "owaf8jw7sv-m888x9h5-hw8er095u4t",
-      "filePath": "Assets\\ECA\\Player\\Shop\\PlayerShop.eca",
-      "_tag": {
-        "type": "GFileRefer"
-      },
-      "fileType": "eca"
-    },
-    {
-      "fileId": "u8txackhibi-m88atrxp-he7qykoqv6f",
-      "filePath": "Assets\\ECA\\Player\\UI\\PlayerDefaultHUD.eca",
-      "_tag": {
-        "type": "GFileRefer"
-      },
-      "fileType": "eca"
-    },
-    {
-      "fileId": "cxskknw9j38-m88g4kyk-gh59c95dnqu",
-      "filePath": "Assets\\ECA\\Player\\UI\\PlayerScoreBoard.eca",
-      "_tag": {
-        "type": "GFileRefer"
-      },
-      "fileType": "eca"
-    },
-    {
-      "fileId": "1prxfh11pl2-m8mtmtb7-ok50ivab52",
-      "filePath": "Assets\\ECA\\Player\\UI\\PlayerRankingHUD.eca",
-      "_tag": {
-        "type": "GFileRefer"
-      },
-      "fileType": "eca"
-    }
-  ],
+  "ecaScripts": [],
   "avatarInfo": null,
   "sceneData": {
     "enableDepthMap": false,
@@ -301,10 +238,7 @@
     "playerskill_teleporter_cd_percent": 100,
     "playerskill_fireboyflame_cd_percent": 100,
     "EnableInventoryDrop": false,
-    "playerskill_autopathbomb_cd_percent": 100,
-    "EnableAOIFilter": false,
-    "CameraViewingAngleRestrictionType": 0,
-    "receive_damage": 100
+    "playerskill_autopathbomb_cd_percent": 100
   },
   "physicsData": {
     "ECCTParam_Gravity": {
@@ -328,9 +262,8 @@
     "ECCTParam_PlayerPhysicalLayer": 0,
     "ECCTParam_EnableRotateWithGravity": false
   },
-  "_entityName": "T_43_YU_WS_MODULE_PLAYER",
+  "_entityName": "FE_0_HW_GAME_EDITOR_PLAYERSETTING",
   "modId": 11,
-  "modOpen": true,
-  "showSwitch": false
+  "modOpen": true
 }
-//"{FE:{"v":"1.12.3513000","c":{"FF":4701},"s":100}
+//"{FE:{"v":"0.1.2974255","c":{"FF":4404},"s":100}

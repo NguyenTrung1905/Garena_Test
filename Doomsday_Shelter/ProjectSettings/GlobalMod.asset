@@ -3,7 +3,7 @@
     "type": "ff.global",
     "resourceId": "Global"
   },
-  "_entityId": "O3njKQof",
+  "_entityId": "qm6nemnW",
   "children": [],
   "prefabVariant": null,
   "activeValue": {
@@ -19,7 +19,7 @@
   "modId": 39,
   "DisableReconnect": false,
   "RecommendStartGameNumber": 4,
-  "EnableHalfwayJoin": true,
+  "EnableHalfwayJoin": false,
   "EnableHalfwayJoinEffectTime": true,
   "HalfwayJoinEffectTime": 120,
   "HalfwayJoinNumber": 5,
@@ -53,43 +53,10 @@
     "Entity": {},
     "Component": {}
   },
-  "globalGraphs": [
-    {
-      "fileId": "zz68fumo1kf-m877kjba-ap75bglogz",
-      "filePath": "Assets\\ECA\\Global\\GlobalMap.eca",
-      "_tag": {
-        "type": "GFileRefer"
-      },
-      "fileType": "eca"
-    },
-    {
-      "fileId": "4bbjgwhr6vn-m877lsso-yl162bpb5t",
-      "filePath": "Assets\\ECA\\Global\\GlobalSpawn.eca",
-      "_tag": {
-        "type": "GFileRefer"
-      },
-      "fileType": "eca"
-    },
-    {
-      "fileId": "8hu4j5d2234-m877k9n2-rrqutvb6dh",
-      "filePath": "Assets\\ECA\\Global\\GlobalEntity.eca",
-      "_tag": {
-        "type": "GFileRefer"
-      },
-      "fileType": "eca"
-    },
-    {
-      "fileId": "jaml1rtioni-m88hjw07-qludw268wf",
-      "filePath": "Assets\\ECA\\Global\\GlobalScore.eca",
-      "_tag": {
-        "type": "GFileRefer"
-      },
-      "fileType": "eca"
-    }
-  ],
+  "globalGraphs": [],
   "_entityName": "T_43_YU_WS_MODULE_GLOBAL",
   "ReduceLogicFrame": false,
   "CustomMatchResult": true,
   "showSwitch": false
 }
-//"{FE:{"v":"1.12.3513000","c":{"FF":4701},"s":100}
+//"{FE:{"v":"0.0.0","c":{"FF":4701},"s":100}

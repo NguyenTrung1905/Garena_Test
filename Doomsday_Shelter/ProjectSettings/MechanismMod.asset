@@ -3,17 +3,11 @@
     "type": "ff.mechanism",
     "resourceId": "Mechanism"
   },
-  "_entityId": "U2cKVsPB",
+  "_entityId": "8wS8WgtL",
   "children": [],
   "prefabVariant": null,
-  "activeValue": {
-    "selfValue": true,
-    "valueTag": "activeValue"
-  },
-  "unlockedValue": {
-    "selfValue": true,
-    "valueTag": "unlockedValue"
-  },
+  "activeValue": null,
+  "unlockedValue": null,
   "editorLockValue": false,
   "editorVisibleValue": true,
   "modId": 42,
@@ -207,7 +201,7 @@
     "enable_weapon_skin": true,
     "enable_weapon_skill": true,
     "EnableDeathObserve": true,
-    "unlimited_bullet": true,
+    "unlimited_bullet": false,
     "unlimited_gloowall": false,
     "unlimited_throwables": false,
     "playerskill_immortality_cd_percent": 100,
@@ -215,13 +209,9 @@
     "playerskill_teleporter_cd_percent": 100,
     "playerskill_fireboyflame_cd_percent": 100,
     "EnableInventoryDrop": false,
-    "playerskill_autopathbomb_cd_percent": 100,
-    "EnableAOIFilter": false,
-    "CameraViewingAngleRestrictionType": 0
+    "playerskill_autopathbomb_cd_percent": 100
   },
   "modOpen": true,
-  "_entityName": "T_43_YU_WS_MODULE_MECHANISM",
-  "EnableInternalWorkflowLogic": true,
-  "showSwitch": false
+  "_entityName": "Mechanism模组"
 }
-//"{FE:{"v":"1.12.3513000","c":{"FF":4701},"s":100}
+//"{FE:{"v":"0.1.2974255","c":{"FF":4404},"s":100}

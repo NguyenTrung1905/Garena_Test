@@ -2,7 +2,7 @@
   "_tag": {
     "type": "ResourceRegisteration"
   },
-  "_entityId": "yd4Pnquu",
+  "_entityId": "JsXbGuFg",
   "Resource": {
     "ui": {
       "id": "ui",
@@ -10,29 +10,7 @@
     },
     "scene": {
       "id": "scene",
-      "children": [
-        {
-          "refer": {
-            "fileId": "b80uzw07dbv-lw7lo3oj-f7kqzv8vgcj",
-            "filePath": "Assets\\Scene\\Bermuda.scene",
-            "_tag": {
-              "type": "GFileRefer"
-            },
-            "fileType": "scene"
-          },
-          "scriptName": "Bermuda",
-          "children": [
-            {
-              "id": "K4J6koI3",
-              "scriptName": "Lobby"
-            },
-            {
-              "id": "0sX7ZoKL",
-              "scriptName": "Maps"
-            }
-          ]
-        }
-      ]
+      "children": []
     },
     "prefab": {
       "id": "prefab",
@@ -42,8 +20,16 @@
       "id": "ugcscript",
       "children": []
     },
+    "ugcscriptclient": {
+      "id": "ugcscriptclient",
+      "children": []
+    },
     "eca": {
       "id": "eca",
+      "children": []
+    },
+    "ecaclient": {
+      "id": "ecaclient",
       "children": []
     },
     "texture": {
@@ -93,16 +79,7 @@
     "textureResource": {
       "id": "textureResource",
       "children": []
-    },
-    "mesh": {
-      "id": "mesh",
-      "children": []
-    },
-    "material": {
-      "id": "material",
-      "children": []
     }
-  },
-  "children": []
+  }
 }
-//"{FE:{"v":"1.12.3513000","c":{"FF":4701},"s":100}
+//"{FE:{"v":"0.1.2974255","c":{"FF":4404},"s":100}

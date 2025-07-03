@@ -1,13 +1,12 @@
 {
-  "name": "FFA_Template",
-  "nameLocKey": "GAME_NAME",
+  "name": "",
+  "nameLocKey": "",
   "description": "",
-  "descriptionLocKey": "GAME_DESCRIPTION",
+  "descriptionLocKey": "",
   "subTitleId": 22,
   "showTags": [],
   "typeTags": [
-    22,
-    98
+    22
   ],
   "showNewTag": false,
   "customShot": null,
@@ -17,7 +16,6 @@
   "customShotSize": 0,
   "enable_static_combine": false,
   "enable_dynamic_combine": true,
-  "enable_loadArea": false,
-  "enable_customNavmesh": false
+  "enable_loadArea": false
 }
-//"{FE:{"v":"1.12.3559061","c":{"FF":4701},"s":100}
+//"{FE:{"v":"0.0.0","c":{"FF":4701},"s":100}

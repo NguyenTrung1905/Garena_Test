@@ -2,13 +2,12 @@
   "_tag": {
     "type": "EditorGenSymbolSetting"
   },
-  "_entityId": "eOaM5QoI",
+  "_entityId": "Yzma5B0n",
   "GenSymbol": {
     "Components": {},
     "Events": {},
     "Graphs": {},
     "Enums": {}
-  },
-  "children": []
+  }
 }
-//"{FE:{"v":"1.12.3513000","c":{"FF":4701},"s":100}
+//"{FE:{"v":"0.1.2974255","c":{"FF":4404},"s":100}

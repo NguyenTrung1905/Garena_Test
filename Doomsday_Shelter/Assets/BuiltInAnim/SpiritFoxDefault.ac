@@ -27,14 +27,8 @@
               "_entityId": "5ia3MWC4",
               "children": [],
               "prefabVariant": null,
-              "activeValue": {
-                "selfValue": true,
-                "valueTag": "activeValue"
-              },
-              "unlockedValue": {
-                "selfValue": true,
-                "valueTag": "unlockedValue"
-              },
+              "activeValue": null,
+              "unlockedValue": null,
               "editorLockValue": false,
               "editorVisibleValue": true,
               "speed": 1,
@@ -56,14 +50,8 @@
             }
           ],
           "prefabVariant": null,
-          "activeValue": {
-            "selfValue": true,
-            "valueTag": "activeValue"
-          },
-          "unlockedValue": {
-            "selfValue": true,
-            "valueTag": "unlockedValue"
-          },
+          "activeValue": null,
+          "unlockedValue": null,
           "editorLockValue": false,
           "editorVisibleValue": true,
           "isLoop": false,
@@ -75,41 +63,15 @@
         }
       ],
       "prefabVariant": null,
-      "activeValue": {
-        "selfValue": true,
-        "valueTag": "activeValue"
-      },
-      "unlockedValue": {
-        "selfValue": true,
-        "valueTag": "unlockedValue"
-      },
+      "activeValue": null,
+      "unlockedValue": null,
       "editorLockValue": false,
       "editorVisibleValue": true,
       "isLoop": false,
       "_eventFrameList": [],
       "selectedBodyparts": [],
       "DisableChanged": false,
-      "_entityName": "Idle",
-      "eventFrameGroup": {
-        "_tag": {
-          "type": "ACEventFrameGroup",
-          "resourceId": ""
-        },
-        "_entityId": "VsZJNq5Y",
-        "children": [],
-        "prefabVariant": null,
-        "activeValue": {
-          "selfValue": true,
-          "valueTag": "activeValue"
-        },
-        "unlockedValue": {
-          "selfValue": true,
-          "valueTag": "unlockedValue"
-        },
-        "editorLockValue": false,
-        "editorVisibleValue": true,
-        "DisableChanged": false
-      }
+      "_entityName": "Idle"
     },
     {
       "_tag": {
@@ -133,14 +95,8 @@
               "_entityId": "WETas5dL",
               "children": [],
               "prefabVariant": null,
-              "activeValue": {
-                "selfValue": true,
-                "valueTag": "activeValue"
-              },
-              "unlockedValue": {
-                "selfValue": true,
-                "valueTag": "unlockedValue"
-              },
+              "activeValue": null,
+              "unlockedValue": null,
               "editorLockValue": false,
               "editorVisibleValue": true,
               "speed": 1,
@@ -162,14 +118,8 @@
             }
           ],
           "prefabVariant": null,
-          "activeValue": {
-            "selfValue": true,
-            "valueTag": "activeValue"
-          },
-          "unlockedValue": {
-            "selfValue": true,
-            "valueTag": "unlockedValue"
-          },
+          "activeValue": null,
+          "unlockedValue": null,
           "editorLockValue": false,
           "editorVisibleValue": true,
           "isLoop": false,
@@ -181,41 +131,15 @@
         }
       ],
       "prefabVariant": null,
-      "activeValue": {
-        "selfValue": true,
-        "valueTag": "activeValue"
-      },
-      "unlockedValue": {
-        "selfValue": true,
-        "valueTag": "unlockedValue"
-      },
+      "activeValue": null,
+      "unlockedValue": null,
       "editorLockValue": false,
       "editorVisibleValue": true,
       "isLoop": false,
       "_eventFrameList": [],
       "selectedBodyparts": [],
       "DisableChanged": false,
-      "_entityName": "Walk",
-      "eventFrameGroup": {
-        "_tag": {
-          "type": "ACEventFrameGroup",
-          "resourceId": ""
-        },
-        "_entityId": "wGG7crVy",
-        "children": [],
-        "prefabVariant": null,
-        "activeValue": {
-          "selfValue": true,
-          "valueTag": "activeValue"
-        },
-        "unlockedValue": {
-          "selfValue": true,
-          "valueTag": "unlockedValue"
-        },
-        "editorLockValue": false,
-        "editorVisibleValue": true,
-        "DisableChanged": false
-      }
+      "_entityName": "Walk"
     },
     {
       "_tag": {
@@ -239,14 +163,8 @@
               "_entityId": "R02hb5uD",
               "children": [],
               "prefabVariant": null,
-              "activeValue": {
-                "selfValue": true,
-                "valueTag": "activeValue"
-              },
-              "unlockedValue": {
-                "selfValue": true,
-                "valueTag": "unlockedValue"
-              },
+              "activeValue": null,
+              "unlockedValue": null,
               "editorLockValue": false,
               "editorVisibleValue": true,
               "speed": 1,
@@ -268,14 +186,8 @@
             }
           ],
           "prefabVariant": null,
-          "activeValue": {
-            "selfValue": true,
-            "valueTag": "activeValue"
-          },
-          "unlockedValue": {
-            "selfValue": true,
-            "valueTag": "unlockedValue"
-          },
+          "activeValue": null,
+          "unlockedValue": null,
           "editorLockValue": false,
           "editorVisibleValue": true,
           "isLoop": false,
@@ -287,41 +199,15 @@
         }
       ],
       "prefabVariant": null,
-      "activeValue": {
-        "selfValue": true,
-        "valueTag": "activeValue"
-      },
-      "unlockedValue": {
-        "selfValue": true,
-        "valueTag": "unlockedValue"
-      },
+      "activeValue": null,
+      "unlockedValue": null,
       "editorLockValue": false,
       "editorVisibleValue": true,
       "isLoop": false,
       "_eventFrameList": [],
       "selectedBodyparts": [],
       "DisableChanged": false,
-      "_entityName": "Run",
-      "eventFrameGroup": {
-        "_tag": {
-          "type": "ACEventFrameGroup",
-          "resourceId": ""
-        },
-        "_entityId": "IIN35911",
-        "children": [],
-        "prefabVariant": null,
-        "activeValue": {
-          "selfValue": true,
-          "valueTag": "activeValue"
-        },
-        "unlockedValue": {
-          "selfValue": true,
-          "valueTag": "unlockedValue"
-        },
-        "editorLockValue": false,
-        "editorVisibleValue": true,
-        "DisableChanged": false
-      }
+      "_entityName": "Run"
     },
     {
       "_tag": {
@@ -345,14 +231,8 @@
               "_entityId": "98Tc80cZ",
               "children": [],
               "prefabVariant": null,
-              "activeValue": {
-                "selfValue": true,
-                "valueTag": "activeValue"
-              },
-              "unlockedValue": {
-                "selfValue": true,
-                "valueTag": "unlockedValue"
-              },
+              "activeValue": null,
+              "unlockedValue": null,
               "editorLockValue": false,
               "editorVisibleValue": true,
               "speed": 1,
@@ -374,14 +254,8 @@
             }
           ],
           "prefabVariant": null,
-          "activeValue": {
-            "selfValue": true,
-            "valueTag": "activeValue"
-          },
-          "unlockedValue": {
-            "selfValue": true,
-            "valueTag": "unlockedValue"
-          },
+          "activeValue": null,
+          "unlockedValue": null,
           "editorLockValue": false,
           "editorVisibleValue": true,
           "isLoop": false,
@@ -393,57 +267,25 @@
         }
       ],
       "prefabVariant": null,
-      "activeValue": {
-        "selfValue": true,
-        "valueTag": "activeValue"
-      },
-      "unlockedValue": {
-        "selfValue": true,
-        "valueTag": "unlockedValue"
-      },
+      "activeValue": null,
+      "unlockedValue": null,
       "editorLockValue": false,
       "editorVisibleValue": true,
       "isLoop": false,
       "_eventFrameList": [],
       "selectedBodyparts": [],
       "DisableChanged": false,
-      "_entityName": "Jump",
-      "eventFrameGroup": {
-        "_tag": {
-          "type": "ACEventFrameGroup",
-          "resourceId": ""
-        },
-        "_entityId": "ocuj3r8w",
-        "children": [],
-        "prefabVariant": null,
-        "activeValue": {
-          "selfValue": true,
-          "valueTag": "activeValue"
-        },
-        "unlockedValue": {
-          "selfValue": true,
-          "valueTag": "unlockedValue"
-        },
-        "editorLockValue": false,
-        "editorVisibleValue": true,
-        "DisableChanged": false
-      }
+      "_entityName": "Jump"
     }
   ],
   "prefabVariant": null,
-  "activeValue": {
-    "selfValue": true,
-    "valueTag": "activeValue"
-  },
-  "unlockedValue": {
-    "selfValue": true,
-    "valueTag": "unlockedValue"
-  },
+  "activeValue": null,
+  "unlockedValue": null,
   "editorLockValue": false,
   "editorVisibleValue": true,
-  "version": 2,
+  "version": 0,
   "preModel": null,
   "bpcFile": null,
   "_entityName": "SpiritFoxDefault"
 }
-//"{FE:{"v":"1.12.3559061","c":{"FF":4701},"s":100}
+//"{FE:{"v":"0.0.0","c":{"FF":4701},"s":100}

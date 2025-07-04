@@ -1,0 +1,33 @@
+{
+  "_tag": {
+    "type": "UGCPlayerEntity"
+  },
+  "_entityId": "hdM3qwGO",
+  "children": [],
+  "prefabVariant": null,
+  "activeValue": null,
+  "unlockedValue": null,
+  "editorLockValue": false,
+  "editorVisibleValue": true,
+  "gender": 0,
+  "avatarRef": {
+    "fileId": "",
+    "filePath": "Free Fire Character",
+    "_tag": {
+      "type": "GFileRefer"
+    },
+    "fileType": "fbx"
+  },
+  "disableOtherAnimation": false,
+  "scale": 1.5,
+  "_preAnimClip": {
+    "fileId": "UGC_NPC_MALE_ANIMREF:0",
+    "filePath": "lib://FFAnim/Male_Idle.anim",
+    "_tag": {
+      "type": "GFileRefer"
+    },
+    "fileType": "anim"
+  },
+  "playerActionMap": {}
+}
+//"{FE:{"v":"1.13.3737256","c":{"FF":4901},"s":100}

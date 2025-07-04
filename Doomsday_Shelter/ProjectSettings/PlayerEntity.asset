@@ -13,8 +13,14 @@
       "_entityId": "cpZtVQOB",
       "children": [],
       "prefabVariant": null,
-      "activeValue": null,
-      "unlockedValue": null,
+      "activeValue": {
+        "selfValue": true,
+        "valueTag": "activeValue"
+      },
+      "unlockedValue": {
+        "selfValue": true,
+        "valueTag": "unlockedValue"
+      },
       "editorLockValue": false,
       "editorVisibleValue": true,
       "CameraType": "Classic",
@@ -36,14 +42,37 @@
     }
   ],
   "prefabVariant": null,
-  "activeValue": null,
-  "unlockedValue": null,
+  "activeValue": {
+    "selfValue": true,
+    "valueTag": "activeValue"
+  },
+  "unlockedValue": {
+    "selfValue": true,
+    "valueTag": "unlockedValue"
+  },
   "editorLockValue": false,
   "editorVisibleValue": true,
-  "ecaProps": {},
+  "ecaProps": {
+    "Player": {},
+    "FightingEntity": {},
+    "AimableEntity": {},
+    "Entity": {},
+    "ScoreableEntity": {},
+    "RankableEntity": {},
+    "Visibility": {},
+    "BuffableEntity": {},
+    "FormulableEntity": {}
+  },
   "ecaScript": null,
   "ecaScripts": [],
-  "avatarInfo": null,
+  "avatarInfo": {
+    "fileId": "79ucojjtca2-mcoir1se-etmtccc5wa5",
+    "filePath": "Assets\\Player.playerdata",
+    "_tag": {
+      "type": "GFileRefer"
+    },
+    "fileType": "playerdata"
+  },
   "sceneData": {
     "enableDepthMap": false,
     "local_tab_index": 0,
@@ -238,7 +267,12 @@
     "playerskill_teleporter_cd_percent": 100,
     "playerskill_fireboyflame_cd_percent": 100,
     "EnableInventoryDrop": false,
-    "playerskill_autopathbomb_cd_percent": 100
+    "playerskill_autopathbomb_cd_percent": 100,
+    "EnableAOIFilter": false,
+    "CameraViewingAngleRestrictionType": 0,
+    "playerskill_cityhero_cd_percent": 100,
+    "playerskill_electricgirl_cd_percent": 100,
+    "playerskill_auroraboy_cd_percent": 100
   },
   "physicsData": {
     "ECCTParam_Gravity": {
@@ -262,8 +296,9 @@
     "ECCTParam_PlayerPhysicalLayer": 0,
     "ECCTParam_EnableRotateWithGravity": false
   },
-  "_entityName": "FE_0_HW_GAME_EDITOR_PLAYERSETTING",
+  "_entityName": "T_43_YU_WS_MODULE_PLAYER",
   "modId": 11,
-  "modOpen": true
+  "modOpen": true,
+  "showSwitch": false
 }
-//"{FE:{"v":"0.1.2974255","c":{"FF":4404},"s":100}
+//"{FE:{"v":"1.13.3737256","c":{"FF":4901},"s":100}

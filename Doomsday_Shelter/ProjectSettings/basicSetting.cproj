@@ -5,14 +5,14 @@
   "descriptionLocKey": "",
   "subTitleId": 28,
   "showTags": [
-    4
+    28
   ],
   "typeTags": [
     22
   ],
   "showNewTag": false,
   "customShot": null,
-  "lang": 1,
+  "lang": 5,
   "locCsvPath": "Assets\\Localization\\key.csv",
   "defaultShot": 0,
   "customShotSize": 0,

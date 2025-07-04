@@ -3,7 +3,28 @@
     "type": "ecaEventDesc"
   },
   "_entityId": "sOWAgy2P",
-  "customEventDefines": {},
-  "customName": {}
+  "customEventDefines": {
+    "signal_92144929": {
+      "name": "Thành phần tùy chọn",
+      "eventType": 0,
+      "enitityType": "WaterZone",
+      "typeID": 100000,
+      "props": [
+        {
+          "name": "Tham số1",
+          "value": "Terrain",
+          "key": 1
+        }
+      ],
+      "propCount": 1,
+      "apiTargetV2": "both",
+      "version": 45,
+      "key": "signal_92144929"
+    }
+  },
+  "customName": {
+    "Thành phần tùy chọn": "signal_92144929"
+  },
+  "children": []
 }
-//"{FE:{"v":"0.1.2974255","c":{"FF":4404},"s":100}
+//"{FE:{"v":"1.13.3737256","c":{"FF":4901},"s":100}

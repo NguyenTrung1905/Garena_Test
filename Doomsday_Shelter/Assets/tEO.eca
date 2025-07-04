@@ -1,0 +1,238 @@
+{
+  "blocks": {
+    "languageVersion": 0,
+    "blocks": [
+      {
+        "type": "a",
+        "id": "KDsKGq[dA7*z:tS:G;v:",
+        "x": 250,
+        "y": 229,
+        "extraState": {
+          "X": 737,
+          "L": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "O": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "T": "UploadMatchResult",
+          "OT": null
+        },
+        "inputs": {
+          "P1": {
+            "shadow": {
+              "type": "tys",
+              "id": "qa(aR#sun/#2{C~MJZMl",
+              "extraState": "Player"
+            }
+          },
+          "P2": {
+            "shadow": {
+              "type": "ipe",
+              "id": "$Ho14z$Mg!zKc]cm$=BJ",
+              "extraState": "MatchResultType",
+              "fields": {
+                "I": "Win"
+              }
+            }
+          },
+          "P3": {
+            "shadow": {
+              "type": "tys",
+              "id": "##2fx!qpVk=^;uXHArw;",
+              "extraState": "ListT_String"
+            }
+          },
+          "P4": {
+            "shadow": {
+              "type": "tys",
+              "id": "hdJv#yBIXv3`FDu,-t`+",
+              "extraState": "ListT_String"
+            }
+          }
+        },
+        "next": {
+          "block": {
+            "type": "a",
+            "id": "0`)[*UQK,kMWBRJPEmR9",
+            "extraState": {
+              "X": 737,
+              "L": [
+                1,
+                2,
+                3,
+                4
+              ],
+              "O": [
+                "",
+                "",
+                "",
+                ""
+              ],
+              "T": "UploadMatchResult",
+              "OT": null
+            },
+            "inputs": {
+              "P1": {
+                "shadow": {
+                  "type": "tys",
+                  "id": "y)wqI~Fr}N,VRsF2{T/3",
+                  "extraState": "Player"
+                }
+              },
+              "P2": {
+                "shadow": {
+                  "type": "ipe",
+                  "id": "*RU/he%0[+HDNwlEphl=",
+                  "extraState": "MatchResultType",
+                  "fields": {
+                    "I": "Lose"
+                  }
+                }
+              },
+              "P3": {
+                "shadow": {
+                  "type": "tys",
+                  "id": "%a%kL?9PzZWZYhnPOTX|",
+                  "extraState": "ListT_String"
+                }
+              },
+              "P4": {
+                "shadow": {
+                  "type": "tys",
+                  "id": "QYQ}A5N4OVUbiG6EV{km",
+                  "extraState": "ListT_String"
+                }
+              }
+            },
+            "next": {
+              "block": {
+                "type": "a",
+                "id": "U96-_*FeHms0f*PE$w1b",
+                "extraState": {
+                  "X": 737,
+                  "L": [
+                    1,
+                    2,
+                    3,
+                    4
+                  ],
+                  "O": [
+                    "",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "T": "UploadMatchResult",
+                  "OT": null
+                },
+                "inputs": {
+                  "P1": {
+                    "shadow": {
+                      "type": "tys",
+                      "id": "S=Yzx0.uY=/AXotaloZi",
+                      "extraState": "Player"
+                    }
+                  },
+                  "P2": {
+                    "shadow": {
+                      "type": "ipe",
+                      "id": "!/vcOT*h5--p9vAWSSMU",
+                      "extraState": "MatchResultType",
+                      "fields": {
+                        "I": "Booyah"
+                      }
+                    }
+                  },
+                  "P3": {
+                    "shadow": {
+                      "type": "tys",
+                      "id": "H%F4UvX~%R[ha`;?#~Kg",
+                      "extraState": "ListT_String"
+                    }
+                  },
+                  "P4": {
+                    "shadow": {
+                      "type": "tys",
+                      "id": "vlAL)_/^=t#R,DQ;`zrZ",
+                      "extraState": "ListT_String"
+                    }
+                  }
+                },
+                "next": {
+                  "block": {
+                    "type": "a",
+                    "id": "|%jGgfnTI!5PL=YWXHYu",
+                    "extraState": {
+                      "X": 737,
+                      "L": [
+                        1,
+                        2,
+                        3,
+                        4
+                      ],
+                      "O": [
+                        "",
+                        "",
+                        "",
+                        ""
+                      ],
+                      "T": "UploadMatchResult",
+                      "OT": null
+                    },
+                    "inputs": {
+                      "P1": {
+                        "shadow": {
+                          "type": "tys",
+                          "id": "-R;H%-vzck/VI:WxKMKX",
+                          "extraState": "Player"
+                        }
+                      },
+                      "P2": {
+                        "shadow": {
+                          "type": "ipe",
+                          "id": "![n:V%G]xz9VJbjW?OMZ",
+                          "extraState": "MatchResultType",
+                          "fields": {
+                            "I": "Draw"
+                          }
+                        }
+                      },
+                      "P3": {
+                        "shadow": {
+                          "type": "tys",
+                          "id": "`rm^,zN2+2=m3^es5b.n",
+                          "extraState": "ListT_String"
+                        }
+                      },
+                      "P4": {
+                        "shadow": {
+                          "type": "tys",
+                          "id": "+YoO=#0dK_uFdU!$Eh}^",
+                          "extraState": "ListT_String"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    ]
+  },
+  "graphData": {
+    "ownerType": "Entity",
+    "componentTypes": "Entity&CSRoundResultHud&MultiTeamMatchResultHud",
+    "isStatic": true,
+    "platform": 2
+  }
+}
+//"{FE:{"v":"1.13.3737256","c":{"FF":4901},"s":100}

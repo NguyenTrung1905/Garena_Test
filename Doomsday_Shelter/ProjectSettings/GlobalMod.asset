@@ -18,14 +18,14 @@
   "editorVisibleValue": true,
   "modId": 39,
   "DisableReconnect": false,
-  "RecommendStartGameNumber": 4,
+  "RecommendStartGameNumber": 8,
   "EnableHalfwayJoin": false,
   "EnableHalfwayJoinEffectTime": true,
   "HalfwayJoinEffectTime": 120,
   "HalfwayJoinNumber": 5,
   "HalfwayJoinNumberLimit": true,
   "EnableFreeQuit": false,
-  "PriorityFullStartMatch": true,
+  "PriorityFullStartMatch": false,
   "AllowHangUpTime": 20,
   "EnableRuntimeDynamicNavMesh": false,
   "EnableHackCheck": false,
@@ -59,4 +59,4 @@
   "CustomMatchResult": true,
   "showSwitch": false
 }
-//"{FE:{"v":"0.0.0","c":{"FF":4701},"s":100}
+//"{FE:{"v":"1.13.3737256","c":{"FF":4901},"s":100}

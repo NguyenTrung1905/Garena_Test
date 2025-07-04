@@ -1,0 +1,18 @@
+{
+  "_tag": {
+    "type": "ff.collection",
+    "resourceId": "Collection"
+  },
+  "_entityId": "NlplxTCy",
+  "children": [],
+  "prefabVariant": null,
+  "activeValue": null,
+  "unlockedValue": null,
+  "editorLockValue": false,
+  "editorVisibleValue": true,
+  "modId": 17,
+  "modOpen": true,
+  "_entityName": "T_43_YU_WS_MODULE_COLLECTION",
+  "showSwitch": true
+}
+//"{FE:{"v":"1.13.3737256","c":{"FF":4901},"s":100}

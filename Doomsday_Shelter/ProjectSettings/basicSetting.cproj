@@ -1,8 +1,8 @@
 {
   "name": "Doomsday_Shelter",
   "nameLocKey": "GAME_NAME",
-  "description": "",
-  "descriptionLocKey": "",
+  "description": "Bunker ruins",
+  "descriptionLocKey": "GAME_DESCRIPTION",
   "subTitleId": 28,
   "showTags": [
     28
@@ -10,7 +10,7 @@
   "typeTags": [
     22
   ],
-  "showNewTag": false,
+  "showNewTag": true,
   "customShot": null,
   "lang": 5,
   "locCsvPath": "Assets\\Localization\\key.csv",

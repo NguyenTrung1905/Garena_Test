@@ -6,10 +6,27 @@
   "_entityId": "kx6eTQhg",
   "children": [],
   "prefabVariant": null,
-  "activeValue": null,
-  "unlockedValue": null,
+  "activeValue": {
+    "selfValue": true,
+    "valueTag": "activeValue"
+  },
+  "unlockedValue": {
+    "selfValue": true,
+    "valueTag": "unlockedValue"
+  },
   "editorLockValue": false,
   "editorVisibleValue": true,
-  "TypeDefines": {}
+  "TypeDefines": {
+    "CustomComponent79072145": {
+      "label": "Nuoc",
+      "name": "CustomComponent79072145",
+      "bases": [
+        "Component"
+      ],
+      "ecaScripts": [],
+      "typeID": 100000,
+      "PropDefines": []
+    }
+  }
 }
-//"{FE:{"v":"0.1.2974255","c":{"FF":4404},"s":100}
+//"{FE:{"v":"1.13.3737256","c":{"FF":4901},"s":100}

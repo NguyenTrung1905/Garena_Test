@@ -66,7 +66,7 @@
   "ecaScript": null,
   "ecaScripts": [],
   "avatarInfo": {
-    "fileId": "79ucojjtca2-mcoir1se-etmtccc5wa5",
+    "fileId": "o72x32fej3-mcp0bem7-52gz7tlekt6",
     "filePath": "Assets\\Player.playerdata",
     "_tag": {
       "type": "GFileRefer"
@@ -134,9 +134,9 @@
     "race_MinNumOfMatchStart": 2,
     "fullcustom_multirounds_enabled": true,
     "fullcustom_round_num": 3,
-    "fullcustom_revive_enabled": false,
+    "fullcustom_revive_enabled": true,
     "fullcustom_revive_rule": 0,
-    "fullcustom_revive_time": 100,
+    "fullcustom_revive_time": 0,
     "fullcustom_round_preparing_time": 5,
     "fullcustom_round_time": 180,
     "fullcustom_team_num": 2,
@@ -272,7 +272,8 @@
     "CameraViewingAngleRestrictionType": 0,
     "playerskill_cityhero_cd_percent": 100,
     "playerskill_electricgirl_cd_percent": 100,
-    "playerskill_auroraboy_cd_percent": 100
+    "playerskill_auroraboy_cd_percent": 100,
+    "receive_damage": 100
   },
   "physicsData": {
     "ECCTParam_Gravity": {

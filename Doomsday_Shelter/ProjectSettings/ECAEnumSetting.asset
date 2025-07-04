@@ -4,7 +4,53 @@
   },
   "_entityId": "F9G9PNGC",
   "enumCount": 0,
-  "enumDefines": {},
-  "enumNameMap": {}
+  "enumDefines": {
+    "CustomEnum66139138": {
+      "label": "PlayerUISwitchType",
+      "key": "CustomEnum66139138",
+      "type": "Int",
+      "info": [],
+      "isCustom": true,
+      "isDirty": false
+    },
+    "CustomEnum29046899": {
+      "label": "GameResult Type",
+      "key": "CustomEnum29046899",
+      "type": "Int",
+      "info": [
+        {
+          "label": "WIN",
+          "key": "E39845001",
+          "value": 1,
+          "type": "Int"
+        },
+        {
+          "label": "LOSE",
+          "key": "E18237844",
+          "value": 2,
+          "type": "Int"
+        },
+        {
+          "label": "BOOYAH",
+          "key": "E25153648",
+          "value": 3,
+          "type": "Int"
+        },
+        {
+          "label": "DRAW",
+          "key": "E50503966",
+          "value": 4,
+          "type": "Int"
+        }
+      ],
+      "isCustom": true,
+      "isDirty": false
+    }
+  },
+  "enumNameMap": {
+    "PlayerUISwitchType": "CustomEnum66139138",
+    "GameResult Type": "CustomEnum29046899"
+  },
+  "children": []
 }
-//"{FE:{"v":"0.1.2974255","c":{"FF":4404},"s":100}
+//"{FE:{"v":"1.13.3737256","c":{"FF":4901},"s":100}

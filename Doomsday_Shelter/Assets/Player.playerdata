@@ -2,7 +2,7 @@
   "_tag": {
     "type": "UGCPlayerEntity"
   },
-  "_entityId": "hdM3qwGO",
+  "_entityId": "MG110Vun",
   "children": [],
   "prefabVariant": null,
   "activeValue": null,
@@ -10,14 +10,7 @@
   "editorLockValue": false,
   "editorVisibleValue": true,
   "gender": 0,
-  "avatarRef": {
-    "fileId": "",
-    "filePath": "Free Fire Character",
-    "_tag": {
-      "type": "GFileRefer"
-    },
-    "fileType": "fbx"
-  },
+  "avatarRef": null,
   "disableOtherAnimation": false,
   "scale": 1.5,
   "_preAnimClip": {

@@ -1,0 +1,15 @@
+{
+  "_tag": {
+    "type": "PlayableController"
+  },
+  "_entityId": "iC2Pj4ZM",
+  "children": [],
+  "prefabVariant": null,
+  "activeValue": null,
+  "unlockedValue": null,
+  "editorLockValue": false,
+  "editorVisibleValue": true,
+  "playableList": [],
+  "overlapMap": {}
+}
+//"{FE:{"v":"1.13.3737256","c":{"FF":4901},"s":100}

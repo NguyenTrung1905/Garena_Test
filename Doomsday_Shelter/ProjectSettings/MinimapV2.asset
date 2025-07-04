@@ -6,16 +6,23 @@
   "_entityId": "IcPIQnjc",
   "children": [],
   "prefabVariant": null,
-  "activeValue": null,
-  "unlockedValue": null,
+  "activeValue": {
+    "selfValue": true,
+    "valueTag": "activeValue"
+  },
+  "unlockedValue": {
+    "selfValue": true,
+    "valueTag": "unlockedValue"
+  },
   "editorLockValue": false,
   "editorVisibleValue": true,
   "modId": 34,
   "hideMinimap": false,
-  "useCustomMinimap": false,
+  "useCustomMinimap": true,
   "enableDepthMap": false,
   "modOpen": true,
   "mapType": null,
-  "_entityName": "FE_40_XYL_CUSTOMMINIMAP"
+  "_entityName": "T_43_YU_WS_MODULE_MINIMAP",
+  "showSwitch": false
 }
 //"{FE:{"v":"1.13.3737256","c":{"FF":4901},"s":100}
